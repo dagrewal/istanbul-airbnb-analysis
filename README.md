@@ -12,9 +12,9 @@ The CRISP-DM framework was adopted for this analysis project.
 1. Business Understanding
 The project was to be centered around using airbnb data to analyse listings in the city of Istanbul. Three questions were identified that could be answered using data science methods. These questions were:
 
-  1. Which side of the city has cheaper accommodation?
-  2. Which month of the year has the best deals on accommodation?
-  3. What do customers say in accommodation reviews?
+    1. Which side of the city has cheaper accommodation?
+    2. Which month of the year has the best deals on accommodation?
+    3. What do customers say in accommodation reviews?
   
 2. Data Understanding
 To be able to answer the business questions above, opensource airbnb data was extracted from http://insideairbnb.com. Listings data, calendar data and review data were used from the latest version of Istanbul data found on the website.
