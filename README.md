@@ -20,7 +20,7 @@ The project was to be centered around using airbnb data to analyse listings in t
 To be able to answer the business questions above, opensource airbnb data was extracted from http://insideairbnb.com. Listings data, calendar data and review data were used from the latest version of Istanbul data found on the website.
 
 ##### 3. Prepare Data
-For the first two questions above, the raw data was prepared into a dataset called DataPrepQ1.csv. This file was too large to store on GitHub but by downloading the raw data from the link provided, the DataPrep.ipynb file can be used to obtain this dataset. Likewise the raw data was prepared for the final question and this was saved as DataPrepQ2.csv. This data can be obtained in the same steps described earlier.
+For the first two questions above, the raw data was prepared into a dataset called Data.Price_Data.csv. Likewise the raw data was prepared for the final question and this was saved as Review_Data.csv.
 
 ##### 4. Data Modelling
 Data analysis and modeling were applied to answer the business questions listed above. The relevant code files for these can be found in the Code folder of this project. Each file has been documented to show the steps involved in obtaining the end results.
@@ -44,6 +44,6 @@ Analysis was performed on opensource airbnb data for the city of Istanbul. Three
 
 Findings from the analysis can be found on Medium blog linked below.
 
-This repository contains the code that was used to develop analysis for the Medium blog post https://medium.com/@d.grewal1503/how-to-choose-your-accommodation-on-your-next-airbnb-getaway-7e0711eae51b. Data has not been uploaded due to size restrictions. However the data can be downloaded from http://insideairbnb.com/get-the-data.html and then used as input for the Code/DataPrep.ipynb file to produce the datasets used in the analysis files.
+This repository contains the code that was used to develop analysis for the Medium blog post https://medium.com/@d.grewal1503/how-to-choose-your-accommodation-on-your-next-airbnb-getaway-7e0711eae51b.
 
 Some pieces of code have been copied and adapted for use from other published resources such as https://towardsdatascience.com/unsupervised-sentiment-analysis-a38bf1906483 and https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34. Where this is the case, it has been stated in the docstring of the relevant functions.
